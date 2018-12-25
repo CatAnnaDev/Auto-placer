@@ -1,0 +1,15 @@
+{
+    "files": {
+        "index.js": "f4fb14a4f331911c8993064550269c33d9d9361f5aaaf8a139ab4edd0ac45429",
+        "module.json": "45b04b88564bf7e2970a16a90ffe0529e50170e7512b2b7fa33039db578028c9"
+    },
+    "defs": {
+        "C_DUNGEON_COOL_TIME_LIST": 1,
+        "C_RESET_ALL_DUNGEON": 1,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_DUNGEON_COOL_TIME_LIST": 1,
+        "S_LOAD_TOPO": 3,
+        "S_SPAWN_DROPITEM": 6,
+        "S_SPAWN_ME": 3
+    }
+}
