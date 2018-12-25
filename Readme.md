@@ -3,16 +3,12 @@
 ---
 
 ## Supported Dungeons:
-* Ghilieglade
-* Ace-Akasha
-* Ace-Baracos
-* Channelworks
-* Sky Cruiser Extreme
+All dungeon
 
 ---
 
 ## Command
-* Type /8 solo to activate or deactivate the module.
+* Type /8 placer to activate or deactivate the module.
 * Module is enabled by default.
 
 ---
