@@ -21,7 +21,7 @@ module.exports = function placer(mod) {
         loot = {};
         dungeon = [];
 
-        mod.send('C_DUNGEON_COOL_TIME_LIST', 1, {});
+        //mod.send('C_DUNGEON_COOL_TIME_LIST', 1, {});
     });
 
     mod.hook('S_DUNGEON_COOL_TIME_LIST', 1, event => {
