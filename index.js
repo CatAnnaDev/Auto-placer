@@ -2,9 +2,9 @@ const Vec3 = require('tera-vec3');
 
 module.exports = function placer(mod) {
     // No autoreset on this zones
-    const blacklist = [9777, 9713, 9916, 9970, 9770];
+    const blacklist = [9777, 9713, 9916, 9716, 9970, 9770, 9769, 9969, 9794, 9794 , 9710, 9782, 9982, 9739, 9939, 9735, 9935, 9783, 9983, 9720, 9920, 9044];
 	// Autoreset and swap zones
-    const whitelist = [9031, 9032, 9769, 9969];
+    const whitelist = [9031, 9032];
 
     let enabled = true,
 		dungeon,
