@@ -1,12 +1,12 @@
 {
-	"disableAutoUpdate": true,
-	"name": "Auto-placer",
-	"author": "PsykoDev",
-	"description": "No description given cause readme.",
-	"version": "Undefined",
-	"options": {
-		"niceName": "Auto-placer"
-	},
-	"servers": ["https://raw.githubusercontent.com/PsykoDev/Auto-placer/master/"],
-	"supportUrl": "https://github.com/PsykoDev/Auto-placers/issues"
+    "disableAutoUpdate": false,
+    "name": "Auto-placer",
+    "author": "PsykoDev",
+    "description": "No description given cause readme.",
+    "version": "Undefined",
+    "options": {
+        "niceName": "Auto-placer"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Auto-placer/master/"],
+    "supportUrl": "https://github.com/PsykoDev/Auto-placer/issues"
 }
