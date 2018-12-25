@@ -1,4 +1,4 @@
-## Teleports to last boss and auto reset dungeon only ace ones.
+## Teleports to last boss or first boss and auto reset dungeon only ace ones.
 
 ---
 
