@@ -1,7 +1,7 @@
 {
     "files": {
         "index.js": "c6a590a9523369bcb43dc64cdee43d25d754bebdbf98ac14fd2b82c2f9f06b1e",
-        "module.json": "23832a696ca3d6129b9c070e28faad70085868f595cb429091900e3724f76296"
+        "module.json": "cde80521430ba38b2c34b2ae7a7e8eae1c9fa694302c5927be4c74f8765cea0a"
     },
     "defs": {
         "C_RESET_ALL_DUNGEON": 1,
