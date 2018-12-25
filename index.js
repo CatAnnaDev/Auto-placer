@@ -2,7 +2,7 @@ const Vec3 = require('tera-vec3');
 
 module.exports = function placer(mod) {
     // No autoreset on this zones
-    const blacklist = [9777, 9713, 9916, 9716, 9970, 9770, 9769, 9969, 9794, 9794 , 9710, 9782, 9982, 9739, 9939, 9735, 9935, 9783, 9983, 9720, 9920, 9044];
+    const blacklist = [9777, 9713, 9916, 9716, 9970, 9770, 9769, 9969, 9794, 9794 , 9710, 9782, 9982, 9739, 9939, 9783, 9983, 9720, 9920, 9044];
 	// Autoreset and swap zones
     const whitelist = [9031, 9032];
 
@@ -97,14 +97,6 @@ module.exports = function placer(mod) {
                 return true;	
 			case 9939: // RR HM
 				event.loc = new Vec3(55960, -98075, 2199)
-				event.w = 1.5
-                return true;	
-			case 9735: // RK9 NM
-				event.loc = new Vec3(-41411, 40622, -954)
-				event.w = 1.5
-                return true;	
-			case 9935: // RK9 HM
-				event.loc = new Vec3(-41411, 40622, -954)
 				event.w = 1.5
                 return true;	
 			case 9783: // Téné NM
